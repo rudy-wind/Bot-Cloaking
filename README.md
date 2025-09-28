@@ -14,8 +14,8 @@ Cloaking is considered a **black-hat SEO technique** and may lead to penalties o
 - Detects popular search engine crawlers (Googlebot, Bingbot, Yandex, etc.) via the `User-Agent`.
 - Optional detection of Google referrals via the `HTTP_REFERER` header.
 - Serves different HTML files depending on visitor type:
-  - `index.html` → shown to search engine bots.
-  - `index-backup.html` → shown to normal visitors.
+  - `index.php` → shown to search engine bots.
+  - `index-backup.php` → shown to normal visitors.
 - Simple, lightweight, and no external dependencies.
 
 ---
