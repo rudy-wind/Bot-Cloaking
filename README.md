@@ -22,12 +22,12 @@ Cloaking is considered a **black-hat SEO technique** and may lead to penalties o
 
 ## 📂 Project Structure
 
-
-
+```
 /your-project-folder
 │── index.html              # Landing page (for bots)
 │── index-backup.html       # Backup page (for users)
 │── cloak.php               # Main cloaking script
+````
 
 
 ## ⚙️ Installation
